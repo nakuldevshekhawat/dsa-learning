@@ -1,0 +1,28 @@
+# ── Temp / generated files ────────────────────────────────────────────────────
+input.txt
+output.txt
+
+# ── macOS metadata ────────────────────────────────────────────────────────────
+.DS_Store
+
+# ── DSA Tool — local config (auto-generated from config.example.json) ─────────
+dsa-tool/config.json
+
+# ── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+
+# ── DSA Tool — user-specific data (never commit personal progress) ────────────
+dsa-tool/data/progress.json
+dsa-tool/data/notes.json
+
+# ── DSA Tool — upstream cache ─────────────────────────────────────────────────
+dsa-tool/data/source_a2z.json
+
+# ── VS Code (keep tasks.json — only ignore personal/machine-specific settings) ─
+.vscode/settings.json
