@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my personal C++ Data Structures & Algorithms (DSA) learning repository. This repository documents my journey in mastering DSA, containing all my learning material, algorithm implementations, and solved problems. Everything here is written in C++ and organized by topic.
+Welcome to my personal C++ Data Structures & Algorithms (DSA) learning repository. This repository documents my journey in mastering DSA, containing all my learning material, algorithm implementations, and solved problems. Everything here is written in C++ and organized by topic.And I am following strivers a2z DSA sheet.
 
 ## Topics Covered
 
