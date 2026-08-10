@@ -66,7 +66,7 @@ DSA/
 | Graphs [Concepts & Problems] | 0 | 54 | 0.0% |
 | Greedy Algorithms [Easy, Medium/Hard] | 0 | 16 | 0.0% |
 | Heaps [Learning, Medium, Hard Problems] | 0 | 17 | 0.0% |
-| Learn Important Sorting Techniques | 1 | 7 | 14.3% |
+| Learn Important Sorting Techniques | 3 | 7 | 42.9% |
 | Learn LinkedList [Single LL, Double LL, Medium, Hard Problems] | 0 | 31 | 0.0% |
 | Learn the basics | 0 | 31 | 0.0% |
 | Recursion [PatternWise] | 0 | 25 | 0.0% |
@@ -80,11 +80,11 @@ DSA/
 ## 📊 Statistics
 
 - **Total Problems**: 455
-- **Solved**: 1
-- **Remaining**: 454
-- **Completion**: 0.2%
+- **Solved**: 3
+- **Remaining**: 452
+- **Completion**: 0.7%
 - **Topics**: 18
-- **Easy**: 1 / 131
+- **Easy**: 3 / 131
 - **Medium**: 0 / 187
 - **Hard**: 0 / 136
 
@@ -117,6 +117,8 @@ python3 main.py
 
 ## 🕒 Recent Activity
 
+- Solved **Insertion Sort** (Easy)
+- Solved **Bubble Sort** (Easy)
 - Solved **Selection Sort** (Easy)
 
 ## ℹ️ Project Information
@@ -126,7 +128,7 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-08-10 15:06:53
+- **Last Updated**: 2026-08-10 15:29:26
 
 ## 📋 Problem Index
 
