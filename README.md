@@ -1,78 +1,141 @@
-# 📚 Data Structures & Algorithms Learning
+# 📘 Data Structures & Algorithms Practice
 
-## Overview
+A modern Data Structures & Algorithms repository powered by **DSA Companion CLI**.
 
-Welcome to my personal C++ Data Structures & Algorithms (DSA) learning repository. This repository documents my journey in mastering DSA, containing all my learning material, algorithm implementations, and solved problems. Everything here is written in C++ and organized by topic.And I am following strivers a2z DSA sheet.
+The repository combines:
 
-## Topics Covered
+- Striver A2Z Sheet
+- GeeksForGeeks
+- LeetCode
+- Local progress tracking
+- Automated workspace generation
+- Repository statistics
+- Search
+- Notes
+- Favorites
 
-This repository currently includes practice problems and implementations in the following areas:
+## ✨ Features
 
-- **Basics**: Fundamental programming concepts and math.
-- **Hashing**: Character and number hashing techniques.
-- **Recursion**: Basic recursive algorithms (e.g., Fibonacci, palindrome checks).
-- **Sorting**: Foundational sorting algorithms (e.g., Selection Sort).
+- 📥 Import the complete Striver A2Z Sheet
+- 🔍 Search 450+ problems instantly
+- 📂 Generate problem workspaces
+- ⭐ Favorite problems
+- 📝 Personal notes
+- 📊 Progress tracking
+- ✅ Database validation
+- 🔄 Automatic README generation
 
-## Repository Structure
+## 💻 CLI Preview
 
 ```text
-.
-├── Basics/
-├── hashing/
-├── recursion/
-└── sorting/
+  ╔══════════════════════════════════════╗
+  ║           MAIN MENU                  ║
+  ╠══════════════════════════════════════╣
+  ║  1.  📂  Create Problem              ║
+  ║  2.  📝  Update README               ║
+  ║  3.  📊  Show Stats                  ║
+  ║  4.  📥  Import Problems             ║
+  ║  5.  🔄  Refresh Problem Database    ║
+  ║  6.  ✅  Validate Database           ║
+  ║  7.  🔎  Search Problems             ║
+  ║  8.  🚪  Exit                        ║
+  ╚══════════════════════════════════════╝
 ```
 
-Each folder contains focused C++ solutions and learning materials for that specific topic.
+## 🗂️ Repository Structure
 
-## Learning Goals
+```text
+DSA/
+├── Basics/
+├── Learn Important Sorting Techniques/
+├── hashing/
+├── recursion/
+├── sorting/
+└── dsa-tool/
+```
 
-- Build a strong foundation in core Data Structures and Algorithms.
-- Improve problem-solving and algorithmic thinking.
-- Write clean, efficient, and well-documented C++ code.
-- Prepare for technical interviews and competitive programming.
+## 📈 Topic Progress
 
-## How to Compile & Run
+| Topic | Solved | Total | Progress |
+|-------|-------:|------:|---------:|
+| Binary Search Trees [Concept and Problems] | 0 | 16 | 0.0% |
+| Binary Search [1D, 2D Arrays, Search Space] | 0 | 32 | 0.0% |
+| Binary Trees [Traversals, Medium and Hard Problems] | 0 | 39 | 0.0% |
+| Bit Manipulation [Concepts & Problems] | 0 | 18 | 0.0% |
+| Dynamic Programming [Patterns and Problems] | 0 | 56 | 0.0% |
+| Graphs [Concepts & Problems] | 0 | 54 | 0.0% |
+| Greedy Algorithms [Easy, Medium/Hard] | 0 | 16 | 0.0% |
+| Heaps [Learning, Medium, Hard Problems] | 0 | 17 | 0.0% |
+| Learn Important Sorting Techniques | 1 | 7 | 14.3% |
+| Learn LinkedList [Single LL, Double LL, Medium, Hard Problems] | 0 | 31 | 0.0% |
+| Learn the basics | 0 | 31 | 0.0% |
+| Recursion [PatternWise] | 0 | 25 | 0.0% |
+| Sliding Window & Two Pointer Combined Problems | 0 | 12 | 0.0% |
+| Solve Problems on Arrays [Easy -> Medium -> Hard] | 0 | 40 | 0.0% |
+| Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation] | 0 | 30 | 0.0% |
+| Strings | 0 | 9 | 0.0% |
+| Strings [Basic and Medium] | 0 | 15 | 0.0% |
+| Tries | 0 | 7 | 0.0% |
 
-You can compile and run any of the C++ files using a standard C++ compiler like `g++`.
+## 📊 Statistics
 
-1. **Compile**:
-   ```bash
-   g++ -std=c++17 <folder_name>/<file_name>.cpp -o output_program
-   ```
-2. **Run**:
-   ```bash
-   ./output_program
-   ```
+- **Total Problems**: 455
+- **Solved**: 1
+- **Remaining**: 454
+- **Completion**: 0.2%
+- **Topics**: 18
+- **Easy**: 1 / 131
+- **Medium**: 0 / 187
+- **Hard**: 0 / 136
 
-*(Note: `input.txt` and `output.txt` are included for redirecting standard I/O if needed.)*
+## 🚀 Quick Start
 
-## Learning Roadmap
+```bash
+# Clone the repository
+git clone <your-repo-url>
+cd DSA
 
-My learning progression follows a structured path. Topics are tackled progressively:
+# Install dependencies
+cd dsa-tool
+pip install -r requirements.txt
 
-- C++ Fundamentals
-- STL
-- Arrays
-- Hashing
-- Recursion
-- Sorting
-- Binary Search
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy
-- Tries
-- Segment Trees
-- Advanced Graph Algorithms
+# Run the CLI
+python3 main.py
+```
 
-## Related Project
+## 🗺️ Roadmap
 
-This repository contains my learning material and solved problems.
+- [x] Data-driven database
+- [x] BugAddr importer
+- [x] Interactive search
+- [x] Favorites
+- [x] Notes
+- [x] Workspace automation
+- [ ] Revision scheduler
+- [ ] Daily challenge
+- [ ] React dashboard
 
-The companion CLI used to manage structured DSA practice is maintained separately:
+## 🕒 Recent Activity
 
-[dsa-companion-cli](https://github.com/nakuldevshekhawat/dsa-companion-cli)
+- Solved **Selection Sort** (Easy)
 
-The CLI is a dedicated tool that automates workspace creation, repository management, searching, and progress tracking, allowing this repository to remain purely focused on the code and learning.
+## ℹ️ Project Information
+
+- **Repository Version**: 1.0.0
+- **CLI Version**: 1.0.0
+- **Python Version**: 3.13.2
+- **Problem Database Size**: 455 problems
+- **Topics**: 18 topics, 54 subtopics
+- **Last Updated**: 2026-08-10 09:26:33
+
+## 📋 Problem Index
+
+- [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (1)
+
+---
+
+### Learn Important Sorting Techniques
+
+| # | Problem | Platform | Difficulty | Link |
+|---|---------|----------|------------|------|
+| 01 | [Selection Sort](./Learn Important Sorting Techniques/01_Selection_Sort/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/selection-sort/1) |

@@ -2,27 +2,20 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Run C++ with I/O",
+            "label": "Run C++",
             "type": "shell",
-            "command": "cmd.exe",
-            "args": [
-                "/c",
-                "g++ -std=c++17 -g \"${file}\" -o \"${fileDirname}\\${fileBasenameNoExtension}.exe\" && \"${fileDirname}\\${fileBasenameNoExtension}.exe\" < \"${workspaceFolder}\\input.txt\" > \"${workspaceFolder}\\output.txt\""
+            "command": "g++ -std=c++17 \"${file}\" -o \"/tmp/dsa_solution\" && \"/tmp/dsa_solution\" < \"${workspaceFolder}/input.txt\" > \"${workspaceFolder}/output.txt\"",
+            "problemMatcher": [
+                "$gcc"
             ],
             "group": {
                 "kind": "build",
                 "isDefault": true
             },
             "presentation": {
-                "echo": true,
                 "reveal": "always",
-                "focus": true,
-                "panel": "shared",
-                "clear": true
-            },
-            "problemMatcher": [
-                "$gcc"
-            ]
+                "panel": "shared"
+            }
         }
     ]
 }
