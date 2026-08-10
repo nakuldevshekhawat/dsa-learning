@@ -126,11 +126,11 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-08-10 09:26:33
+- **Last Updated**: 2026-08-10 10:48:48
 
 ## 📋 Problem Index
 
-- [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (1)
+- [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (2)
 
 ---
 
@@ -139,3 +139,4 @@ python3 main.py
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
 | 01 | [Selection Sort](./Learn Important Sorting Techniques/01_Selection_Sort/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/selection-sort/1) |
+| 02 | [Bubble Sort](./Learn Important Sorting Techniques/02_Bubble_Sort/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
