@@ -66,7 +66,7 @@ DSA/
 | Graphs [Concepts & Problems] | 0 | 54 | 0.0% |
 | Greedy Algorithms [Easy, Medium/Hard] | 0 | 16 | 0.0% |
 | Heaps [Learning, Medium, Hard Problems] | 0 | 17 | 0.0% |
-| Learn Important Sorting Techniques | 4 | 7 | 57.1% |
+| Learn Important Sorting Techniques | 5 | 7 | 71.4% |
 | Learn LinkedList [Single LL, Double LL, Medium, Hard Problems] | 0 | 31 | 0.0% |
 | Learn the basics | 0 | 31 | 0.0% |
 | Recursion [PatternWise] | 0 | 25 | 0.0% |
@@ -80,11 +80,11 @@ DSA/
 ## 📊 Statistics
 
 - **Total Problems**: 455
-- **Solved**: 4
-- **Remaining**: 451
-- **Completion**: 0.9%
+- **Solved**: 5
+- **Remaining**: 450
+- **Completion**: 1.1%
 - **Topics**: 18
-- **Easy**: 3 / 131
+- **Easy**: 4 / 131
 - **Medium**: 1 / 187
 - **Hard**: 0 / 136
 
@@ -117,6 +117,7 @@ python3 main.py
 
 ## 🕒 Recent Activity
 
+- Solved **Quick Sort** (Easy)
 - Solved **Merge Sort** (Medium)
 - Solved **Insertion Sort** (Easy)
 - Solved **Bubble Sort** (Easy)
@@ -129,11 +130,11 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-08-16 23:12:33
+- **Last Updated**: 2026-08-17 15:11:05
 
 ## 📋 Problem Index
 
-- [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (4)
+- [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (5)
 
 ---
 
@@ -145,3 +146,4 @@ python3 main.py
 | 01 | [Merge Sort](./Learn Important Sorting Techniques/01_Merge_Sort/README.md) | Gfg | Medium | [Link](https://www.geeksforgeeks.org/problems/merge-sort/1) |
 | 02 | [Bubble Sort](./Learn Important Sorting Techniques/02_Bubble_Sort/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/bubble-sort/1) |
 | 03 | [Insertion Sort](./Learn Important Sorting Techniques/03_Insertion_Sort/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/insertion-sort/0) |
+| 04 | [Quick Sort](./Learn Important Sorting Techniques/04_Quick_Sort/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/quick-sort/1) |
