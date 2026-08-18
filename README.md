@@ -72,7 +72,7 @@ DSA/
 | Learn the basics | 0 | 31 | 0.0% |
 | Recursion [PatternWise] | 0 | 25 | 0.0% |
 | Sliding Window & Two Pointer Combined Problems | 0 | 12 | 0.0% |
-| Solve Problems on Arrays [Easy -> Medium -> Hard] | 1 | 40 | 2.5% |
+| Solve Problems on Arrays [Easy -> Medium -> Hard] | 2 | 40 | 5.0% |
 | Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation] | 0 | 30 | 0.0% |
 | Strings | 0 | 9 | 0.0% |
 | Strings [Basic and Medium] | 0 | 15 | 0.0% |
@@ -81,11 +81,11 @@ DSA/
 ## 📊 Statistics
 
 - **Total Problems**: 455
-- **Solved**: 6
-- **Remaining**: 449
-- **Completion**: 1.3%
+- **Solved**: 7
+- **Remaining**: 448
+- **Completion**: 1.5%
 - **Topics**: 18
-- **Easy**: 5 / 131
+- **Easy**: 6 / 131
 - **Medium**: 1 / 187
 - **Hard**: 0 / 136
 
@@ -118,11 +118,11 @@ python3 main.py
 
 ## 🕒 Recent Activity
 
+- Solved **Second Largest Element in an Array without sorting** (Easy)
 - Solved **Largest Element in an Array** (Easy)
 - Solved **Quick Sort** (Easy)
 - Solved **Merge Sort** (Medium)
 - Solved **Insertion Sort** (Easy)
-- Solved **Bubble Sort** (Easy)
 
 ## ℹ️ Project Information
 
@@ -131,12 +131,12 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-08-18 22:46:09
+- **Last Updated**: 2026-08-18 22:56:00
 
 ## 📋 Problem Index
 
 - [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (5)
-- [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (1)
+- [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (2)
 
 ---
 
@@ -155,3 +155,4 @@ python3 main.py
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
 | 01 | [Largest Element in an Array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/01_Largest_Element_in_an_Array/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0) |
+| 02 | [Second Largest Element in an Array without sorting](./Solve Problems on Arrays [Easy -> Medium -> Hard]/02_Second_Largest_Element_in_an_Array_without_sorting/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/second-largest3735/1) |
