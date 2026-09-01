@@ -72,7 +72,7 @@ DSA/
 | Learn the basics | 0 | 31 | 0.0% |
 | Recursion [PatternWise] | 0 | 25 | 0.0% |
 | Sliding Window & Two Pointer Combined Problems | 0 | 12 | 0.0% |
-| Solve Problems on Arrays [Easy -> Medium -> Hard] | 6 | 40 | 15.0% |
+| Solve Problems on Arrays [Easy -> Medium -> Hard] | 7 | 40 | 17.5% |
 | Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation] | 0 | 30 | 0.0% |
 | Strings | 0 | 9 | 0.0% |
 | Strings [Basic and Medium] | 0 | 15 | 0.0% |
@@ -81,11 +81,11 @@ DSA/
 ## 📊 Statistics
 
 - **Total Problems**: 455
-- **Solved**: 11
-- **Remaining**: 444
-- **Completion**: 2.4%
+- **Solved**: 12
+- **Remaining**: 443
+- **Completion**: 2.6%
 - **Topics**: 18
-- **Easy**: 10 / 131
+- **Easy**: 11 / 131
 - **Medium**: 1 / 187
 - **Hard**: 0 / 136
 
@@ -118,11 +118,11 @@ python3 main.py
 
 ## 🕒 Recent Activity
 
+- Solved **Linear Search** (Easy)
 - Solved **Left rotate an array by D places** (Easy)
 - Solved **Left Rotate an array by one place** (Easy)
 - Solved **Remove duplicates from Sorted array** (Easy)
 - Solved **Check if the array is sorted** (Easy)
-- Solved **Second Largest Element in an Array without sorting** (Easy)
 
 ## ℹ️ Project Information
 
@@ -131,12 +131,12 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-08-21 00:28:16
+- **Last Updated**: 2026-09-01 22:52:40
 
 ## 📋 Problem Index
 
 - [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (5)
-- [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (6)
+- [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (7)
 
 ---
 
@@ -160,3 +160,4 @@ python3 main.py
 | 04 | [Remove duplicates from Sorted array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/04_Remove_duplicates_from_Sorted_array/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 05 | [Left Rotate an array by one place](./Solve Problems on Arrays [Easy -> Medium -> Hard]/05_Left_Rotate_an_array_by_one_place/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/rotate-array/) |
 | 06 | [Left rotate an array by D places](./Solve Problems on Arrays [Easy -> Medium -> Hard]/06_Left_rotate_an_array_by_D_places/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/rotate-array/) |
+| 08 | [Linear Search](./Solve Problems on Arrays [Easy -> Medium -> Hard]/08_Linear_Search/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) |
