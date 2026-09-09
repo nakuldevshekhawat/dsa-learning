@@ -72,7 +72,7 @@ DSA/
 | Learn the basics | 0 | 31 | 0.0% |
 | Recursion [PatternWise] | 0 | 25 | 0.0% |
 | Sliding Window & Two Pointer Combined Problems | 0 | 12 | 0.0% |
-| Solve Problems on Arrays [Easy -> Medium -> Hard] | 9 | 40 | 22.5% |
+| Solve Problems on Arrays [Easy -> Medium -> Hard] | 11 | 40 | 27.5% |
 | Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation] | 0 | 30 | 0.0% |
 | Strings | 0 | 9 | 0.0% |
 | Strings [Basic and Medium] | 0 | 15 | 0.0% |
@@ -81,11 +81,11 @@ DSA/
 ## 📊 Statistics
 
 - **Total Problems**: 455
-- **Solved**: 14
-- **Remaining**: 441
-- **Completion**: 3.1%
+- **Solved**: 16
+- **Remaining**: 439
+- **Completion**: 3.5%
 - **Topics**: 18
-- **Easy**: 12 / 131
+- **Easy**: 14 / 131
 - **Medium**: 2 / 187
 - **Hard**: 0 / 136
 
@@ -118,11 +118,11 @@ python3 main.py
 
 ## 🕒 Recent Activity
 
+- Solved **Maximum Consecutive Ones** (Easy)
+- Solved **Find missing number in an array** (Easy)
 - Solved **Find the Union** (Medium)
 - Solved **Move Zeros to end** (Easy)
 - Solved **Linear Search** (Easy)
-- Solved **Left rotate an array by D places** (Easy)
-- Solved **Left Rotate an array by one place** (Easy)
 
 ## ℹ️ Project Information
 
@@ -131,12 +131,12 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-09-06 08:25:49
+- **Last Updated**: 2026-09-09 21:38:39
 
 ## 📋 Problem Index
 
 - [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (5)
-- [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (10)
+- [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (12)
 
 ---
 
@@ -154,7 +154,7 @@ python3 main.py
 
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
-| ? | [Intersection_of_two_sorted_array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Intersection_of_two_sorted_array/README.md) | — | — | — |
+| ? | [Intersection_of_two_sorted_array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Intersection_of_two_sorted_array/README.md) | GeeksforGeeks | Easy | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1) |
 | 01 | [Largest Element in an Array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/01_Largest_Element_in_an_Array/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0) |
 | 02 | [Second Largest Element in an Array without sorting](./Solve Problems on Arrays [Easy -> Medium -> Hard]/02_Second_Largest_Element_in_an_Array_without_sorting/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/second-largest3735/1) |
 | 03 | [Check if the array is sorted](./Solve Problems on Arrays [Easy -> Medium -> Hard]/03_Check_if_the_array_is_sorted/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
@@ -163,4 +163,6 @@ python3 main.py
 | 06 | [Left rotate an array by D places](./Solve Problems on Arrays [Easy -> Medium -> Hard]/06_Left_rotate_an_array_by_D_places/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/rotate-array/) |
 | 07 | [Move Zeros to end](./Solve Problems on Arrays [Easy -> Medium -> Hard]/07_Move_Zeros_to_end/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/move-zeroes/) |
 | 08 | [Linear Search](./Solve Problems on Arrays [Easy -> Medium -> Hard]/08_Linear_Search/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) |
-| 09 | [Find the Union](./Solve Problems on Arrays [Easy -> Medium -> Hard]/09_Find_the_Union/README.md) | Gfg | Medium | [Link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |
+| 09 | [Find the Union](./Solve Problems on Arrays [Easy -> Medium -> Hard]/09_Find_the_Union/README.md) | GeeksforGeeks | Medium | [Link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |
+| 10 | [Find missing number in an array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/10_Find_missing_number_in_an_array/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/missing-number/) |
+| 11 | [Maximum Consecutive Ones](./Solve Problems on Arrays [Easy -> Medium -> Hard]/11_Maximum_Consecutive_Ones/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/max-consecutive-ones/) |
