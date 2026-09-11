@@ -72,7 +72,7 @@ DSA/
 | Learn the basics | 0 | 31 | 0.0% |
 | Recursion [PatternWise] | 0 | 25 | 0.0% |
 | Sliding Window & Two Pointer Combined Problems | 0 | 12 | 0.0% |
-| Solve Problems on Arrays [Easy -> Medium -> Hard] | 12 | 40 | 30.0% |
+| Solve Problems on Arrays [Easy -> Medium -> Hard] | 13 | 40 | 32.5% |
 | Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation] | 0 | 30 | 0.0% |
 | Strings | 0 | 9 | 0.0% |
 | Strings [Basic and Medium] | 0 | 15 | 0.0% |
@@ -81,12 +81,12 @@ DSA/
 ## 📊 Statistics
 
 - **Total Problems**: 455
-- **Solved**: 17
-- **Remaining**: 438
-- **Completion**: 3.7%
+- **Solved**: 18
+- **Remaining**: 437
+- **Completion**: 4.0%
 - **Topics**: 18
 - **Easy**: 15 / 131
-- **Medium**: 2 / 187
+- **Medium**: 3 / 187
 - **Hard**: 0 / 136
 
 ## 🚀 Quick Start
@@ -118,11 +118,11 @@ python3 main.py
 
 ## 🕒 Recent Activity
 
+- Solved **Rearrange the array in alternating positive and negative items** (Medium)
 - Solved **Leaders in an Array problem** (Easy)
 - Solved **Maximum Consecutive Ones** (Easy)
 - Solved **Find missing number in an array** (Easy)
 - Solved **Find the Union** (Medium)
-- Solved **Move Zeros to end** (Easy)
 
 ## ℹ️ Project Information
 
@@ -131,18 +131,18 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-09-11 16:59:56
+- **Last Updated**: 2026-09-11 20:34:24
 
 ## 📋 Problem Index
 
 - [Easy](#easy) (12)
 - [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (5)
-- [Medium](#medium) (1)
+- [Medium](#medium) (2)
 - [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (1)
 
 ---
 
-### Array Easy
+### Easy
 
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
@@ -174,5 +174,8 @@ python3 main.py
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
 | 03 | [Majority Element n2 times](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Medium/03_Majority_Element_n2_times/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/majority-element/) |
+| 09 | [Leaders in an Array problem](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Medium/09_Leaders_in_an_Array_problem/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) |
+| # | Problem | Platform | Difficulty | Link |
+|---|---------|----------|------------|------|
+| 07 | [Rearrange the array in alternating positive and negative items](./Solve Problems on Arrays [Easy -> Medium -> Hard]/07_Rearrange_the_array_in_alternating_positive_and_negative_items/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
 
-| 09 | [Leaders in an Array problem](./Solve Problems on Arrays [Easy -> Medium -> Hard]/09_Leaders_in_an_Array_problem/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) |
