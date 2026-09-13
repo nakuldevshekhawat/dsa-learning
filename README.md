@@ -72,7 +72,7 @@ DSA/
 | Learn the basics | 0 | 31 | 0.0% |
 | Recursion [PatternWise] | 0 | 25 | 0.0% |
 | Sliding Window & Two Pointer Combined Problems | 0 | 12 | 0.0% |
-| Solve Problems on Arrays [Easy -> Medium -> Hard] | 13 | 40 | 32.5% |
+| Solve Problems on Arrays [Easy -> Medium -> Hard] | 14 | 40 | 35.0% |
 | Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation] | 0 | 30 | 0.0% |
 | Strings | 0 | 9 | 0.0% |
 | Strings [Basic and Medium] | 0 | 15 | 0.0% |
@@ -81,12 +81,12 @@ DSA/
 ## 📊 Statistics
 
 - **Total Problems**: 455
-- **Solved**: 18
-- **Remaining**: 437
-- **Completion**: 4.0%
+- **Solved**: 19
+- **Remaining**: 436
+- **Completion**: 4.2%
 - **Topics**: 18
 - **Easy**: 15 / 131
-- **Medium**: 3 / 187
+- **Medium**: 4 / 187
 - **Hard**: 0 / 136
 
 ## 🚀 Quick Start
@@ -118,11 +118,11 @@ python3 main.py
 
 ## 🕒 Recent Activity
 
+- Solved **Print the matrix in spiral manner** (Medium)
 - Solved **Rearrange the array in alternating positive and negative items** (Medium)
 - Solved **Leaders in an Array problem** (Easy)
 - Solved **Maximum Consecutive Ones** (Easy)
 - Solved **Find missing number in an array** (Easy)
-- Solved **Find the Union** (Medium)
 
 ## ℹ️ Project Information
 
@@ -131,33 +131,41 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-09-11 20:34:24
+- **Last Updated**: 2026-09-13 22:42:56
 
 ## 📋 Problem Index
 
-- [Easy](#easy) (12)
+- [Array Easy](#array-easy) (12)
+- [Array Medium](#array-medium) (3)
 - [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (5)
-- [Medium](#medium) (2)
 - [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (1)
 
 ---
 
-### Easy
+### Array Easy
 
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
-| ? | [Intersection_of_two_sorted_array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/Intersection_of_two_sorted_array/README.md) | GeeksforGeeks | Easy | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1) |
-| 01 | [Largest Element in an Array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/01_Largest_Element_in_an_Array/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0) |
-| 02 | [Second Largest Element in an Array without sorting](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/02_Second_Largest_Element_in_an_Array_without_sorting/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/second-largest3735/1) |
-| 03 | [Check if the array is sorted](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/03_Check_if_the_array_is_sorted/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
-| 04 | [Remove duplicates from Sorted array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/04_Remove_duplicates_from_Sorted_array/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 05 | [Left Rotate an array by one place](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/05_Left_Rotate_an_array_by_one_place/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/rotate-array/) |
-| 06 | [Left rotate an array by D places](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/06_Left_rotate_an_array_by_D_places/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/rotate-array/) |
-| 07 | [Move Zeros to end](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/07_Move_Zeros_to_end/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/move-zeroes/) |
-| 08 | [Linear Search](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/08_Linear_Search/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) |
-| 09 | [Find the Union](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/09_Find_the_Union/README.md) | GeeksforGeeks | Medium | [Link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |
-| 10 | [Find missing number in an array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/10_Find_missing_number_in_an_array/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/missing-number/) |
-| 11 | [Maximum Consecutive Ones](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Easy/11_Maximum_Consecutive_Ones/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/max-consecutive-ones/) |
+| ? | [Intersection_of_two_sorted_array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/Intersection_of_two_sorted_array/README.md) | GeeksforGeeks | Easy | [Link](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1) |
+| 01 | [Largest Element in an Array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/01_Largest_Element_in_an_Array/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0) |
+| 02 | [Second Largest Element in an Array without sorting](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/02_Second_Largest_Element_in_an_Array_without_sorting/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/second-largest3735/1) |
+| 03 | [Check if the array is sorted](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/03_Check_if_the_array_is_sorted/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
+| 04 | [Remove duplicates from Sorted array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/04_Remove_duplicates_from_Sorted_array/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 05 | [Left Rotate an array by one place](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/05_Left_Rotate_an_array_by_one_place/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/rotate-array/) |
+| 06 | [Left rotate an array by D places](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/06_Left_rotate_an_array_by_D_places/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/rotate-array/) |
+| 07 | [Move Zeros to end](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/07_Move_Zeros_to_end/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/move-zeroes/) |
+| 08 | [Linear Search](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/08_Linear_Search/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) |
+| 09 | [Find the Union](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/09_Find_the_Union/README.md) | GeeksforGeeks | Medium | [Link](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) |
+| 10 | [Find missing number in an array](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/10_Find_missing_number_in_an_array/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/missing-number/) |
+| 11 | [Maximum Consecutive Ones](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Easy/11_Maximum_Consecutive_Ones/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/max-consecutive-ones/) |
+
+### Array Medium
+
+| # | Problem | Platform | Difficulty | Link |
+|---|---------|----------|------------|------|
+| 03 | [Majority Element n2 times](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/03_Majority_Element_n2_times/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/majority-element/) |
+| 07 | [Rearrange the array in alternating positive and negative items](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/07_Rearrange_the_array_in_alternating_positive_and_negative_items/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
+| 09 | [Leaders in an Array problem](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/09_Leaders_in_an_Array_problem/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) |
 
 ### Learn Important Sorting Techniques
 
@@ -173,9 +181,4 @@ python3 main.py
 
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
-| 03 | [Majority Element n2 times](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Medium/03_Majority_Element_n2_times/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/majority-element/) |
-| 09 | [Leaders in an Array problem](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Medium/09_Leaders_in_an_Array_problem/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) |
-| # | Problem | Platform | Difficulty | Link |
-|---|---------|----------|------------|------|
-| 07 | [Rearrange the array in alternating positive and negative items](./Solve Problems on Arrays [Easy -> Medium -> Hard]/07_Rearrange_the_array_in_alternating_positive_and_negative_items/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
-
+| 13 | [Print the matrix in spiral manner](./Solve Problems on Arrays [Easy -> Medium -> Hard]/13_Print_the_matrix_in_spiral_manner/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) |
