@@ -131,12 +131,12 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-09-13 22:42:56
+- **Last Updated**: 2026-09-14 21:37:30
 
 ## 📋 Problem Index
 
 - [Array Easy](#array-easy) (12)
-- [Array Medium](#array-medium) (3)
+- [Array Medium](#array-medium) (4)
 - [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (5)
 - [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (1)
 
@@ -166,6 +166,7 @@ python3 main.py
 | 03 | [Majority Element n2 times](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/03_Majority_Element_n2_times/README.md) | Leetcode | Easy | [Link](https://leetcode.com/problems/majority-element/) |
 | 07 | [Rearrange the array in alternating positive and negative items](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/07_Rearrange_the_array_in_alternating_positive_and_negative_items/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
 | 09 | [Leaders in an Array problem](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/09_Leaders_in_an_Array_problem/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) |
+| 13 | [Print the matrix in spiral manner](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/13_Print_the_matrix_in_spiral_manner/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) |
 
 ### Learn Important Sorting Techniques
 
@@ -177,8 +178,8 @@ python3 main.py
 | 03 | [Insertion Sort](./Learn Important Sorting Techniques/03_Insertion_Sort/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/insertion-sort/0) |
 | 04 | [Quick Sort](./Learn Important Sorting Techniques/04_Quick_Sort/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/quick-sort/1) |
 
-### Array Medium
+### Solve Problems on Arrays [Easy -> Medium -> Hard]
 
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
-| 13 | [Print the matrix in spiral manner](./Solve Problems on Arrays [Easy -> Medium -> Hard]/13_Print_the_matrix_in_spiral_manner/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) |
+| 01 | [Pascals Triangle](./Solve Problems on Arrays [Easy -> Medium -> Hard]/01_Pascals_Triangle/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/pascals-triangle/) |
