@@ -72,7 +72,7 @@ DSA/
 | Learn the basics | 0 | 31 | 0.0% |
 | Recursion [PatternWise] | 0 | 25 | 0.0% |
 | Sliding Window & Two Pointer Combined Problems | 0 | 12 | 0.0% |
-| Solve Problems on Arrays [Easy -> Medium -> Hard] | 14 | 40 | 35.0% |
+| Solve Problems on Arrays [Easy -> Medium -> Hard] | 15 | 40 | 37.5% |
 | Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation] | 0 | 30 | 0.0% |
 | Strings | 0 | 9 | 0.0% |
 | Strings [Basic and Medium] | 0 | 15 | 0.0% |
@@ -81,12 +81,12 @@ DSA/
 ## 📊 Statistics
 
 - **Total Problems**: 455
-- **Solved**: 19
-- **Remaining**: 436
-- **Completion**: 4.2%
+- **Solved**: 20
+- **Remaining**: 435
+- **Completion**: 4.4%
 - **Topics**: 18
 - **Easy**: 15 / 131
-- **Medium**: 4 / 187
+- **Medium**: 5 / 187
 - **Hard**: 0 / 136
 
 ## 🚀 Quick Start
@@ -118,11 +118,11 @@ python3 main.py
 
 ## 🕒 Recent Activity
 
+- Solved **Rotate Matrix by 90 degrees** (Medium)
 - Solved **Print the matrix in spiral manner** (Medium)
 - Solved **Rearrange the array in alternating positive and negative items** (Medium)
 - Solved **Leaders in an Array problem** (Easy)
 - Solved **Maximum Consecutive Ones** (Easy)
-- Solved **Find missing number in an array** (Easy)
 
 ## ℹ️ Project Information
 
@@ -131,12 +131,13 @@ python3 main.py
 - **Python Version**: 3.13.2
 - **Problem Database Size**: 455 problems
 - **Topics**: 18 topics, 54 subtopics
-- **Last Updated**: 2026-09-14 21:37:30
+- **Last Updated**: 2026-09-15 23:00:21
 
 ## 📋 Problem Index
 
 - [Array Easy](#array-easy) (12)
 - [Array Medium](#array-medium) (4)
+- [Array hard](#array-hard) (1)
 - [Learn Important Sorting Techniques](#learn-important-sorting-techniques) (5)
 - [Solve Problems on Arrays [Easy -> Medium -> Hard]](#solve-problems-on-arrays-[easy-->-medium-->-hard]) (1)
 
@@ -168,6 +169,12 @@ python3 main.py
 | 09 | [Leaders in an Array problem](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/09_Leaders_in_an_Array_problem/README.md) | Gfg | Easy | [Link](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) |
 | 13 | [Print the matrix in spiral manner](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array Medium/13_Print_the_matrix_in_spiral_manner/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) |
 
+### Array hard
+
+| # | Problem | Platform | Difficulty | Link |
+|---|---------|----------|------------|------|
+| 01 | [Pascals Triangle](./Solve Problems on Arrays [Easy -> Medium -> Hard]/Array hard/01_Pascals_Triangle/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/pascals-triangle/) |
+
 ### Learn Important Sorting Techniques
 
 | # | Problem | Platform | Difficulty | Link |
@@ -182,4 +189,4 @@ python3 main.py
 
 | # | Problem | Platform | Difficulty | Link |
 |---|---------|----------|------------|------|
-| 01 | [Pascals Triangle](./Solve Problems on Arrays [Easy -> Medium -> Hard]/01_Pascals_Triangle/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/pascals-triangle/) |
+| 12 | [Rotate Matrix by 90 degrees](./Solve Problems on Arrays [Easy -> Medium -> Hard]/12_Rotate_Matrix_by_90_degrees/README.md) | Leetcode | Medium | [Link](https://leetcode.com/problems/rotate-image/) |
